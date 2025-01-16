@@ -39,7 +39,7 @@ The goal of this project is to assist businesses in optimizing their e-commerce 
    - Evaluated model using accuracy, precision, recall, and F1-score.
    - Conducted feature importance analysis to highlight key factors.
 
-6. **Interactive Dashboard**
+6. **Interactive Dashboard** [Click Here to Access](https://shoppingintentionpredictor.streamlit.app/)
    - Built using **Streamlit** for seamless exploration and prediction.
    - Key Features:
      - Real-time shopper intent classification.
@@ -59,7 +59,7 @@ The goal of this project is to assist businesses in optimizing their e-commerce 
    - Developed Random Forest model on cleaned data.
    - Addressed multicollinearity using VIF analysis.
 4. **App Deployment**
-   - Created a Streamlit app for real-time predictions.
+   - Created a [Streamlit app](https://shoppingintentionpredictor.streamlit.app/) for real-time predictions.
    - Deployed online for accessible usage.
 
 ---
